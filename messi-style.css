@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
+
+  #header {
+    background-color:white;
+  }
+
+  #main-body {
+    background-color:rgb(49, 203, 255);
+  }
